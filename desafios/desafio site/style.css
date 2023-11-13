@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(45, 45, 45);
+}
+h1 {
+font-family: Arial;
+color: azure;
+text-align: center;
+}
+
+.container1 {
+
+    text-align: center;
+}
+.container2 {
+    text-align: center;
+}
+.container3 {
+    text-align: center;
+}
+
+
+.background {
+    background-color: rgb(45, 45, 45);
+}
+.titulo2 {
+    font-family: Arial;
+    color: azure;
+    text-align: center;
+}
+
+.container-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container4 {
+    font-family: Arial;
+    color: azure;
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,31 @@
+border: 1 . width; 2 - style; 3 - color. 
+
+ex: border: 30px solid grey - Usei uma shorthand 
+para determinar o width, style e color. 
+
+padding: 1. top; 2. right; 3. boottom; 4. left. 
+
+vejamos que os atributos usando um sentido horário
+para determinar o valor. 
+
+ex: padding: 10px - se todos os outros valores forem
+iguais, basta determinar apenas um valor com a short
+hand. Se utilizarmos dois valores, por exemplo:
+
+padding: 10px 20px - Os dois valores determinados segui
+ram a forma cima/baixo e direita/esquerda.
+
+margin: 1. top; 2. right; 3. bottom; 4. left.
+
+border    -   borda
+margin    -   margem
+padding   -   enchimento
+outline   -   linha por fora
+
+margin: auto - Determina um elemento para o centro
+da tela (funciona para modelo de caixas) se for 
+para texto se utiliza - text-align: center
+
+
+margin - Da borda (border) para fora
+padding - Da borda (border) para dentro

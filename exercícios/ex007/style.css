@@ -1,0 +1,28 @@
+
+mark {
+color: white;
+background-color: blue;
+
+}
+.botao-custom {
+
+background-color: rgb(137, 137, 137);
+color: #fff;
+padding: 10px 20px;
+border: none;
+border-radius: 10px;
+cursor: pointer;
+
+} 
+
+.botao-custom:hover {
+ 
+    background-color: #797979;
+}
+.box {
+
+    background: rgba(177, 2, 31, 0.635);
+    height: 200px;
+    width: 80px;
+
+}
